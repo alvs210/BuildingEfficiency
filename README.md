@@ -6,7 +6,7 @@ This is a C program called "BuildEff" (short for Building Efficiency) to identif
 Assignment for BuildEff in C: [Click Here](https://people.ee.duke.edu/~jab/ece250/homeworks/homework1.pdf)
 Assignment for BuildEff in Assembly: [Click Here](https://people.ee.duke.edu/~jab/ece250/homeworks/homework2.pdf)
 
-# Assignment Details
+# Assignment Details - C and MIPS
 
 Write a C program called BuildEff (short for Building Efficiency) to identify the most energy efficient
 building (per square foot) in the input file provided. The tool will take a filename as an input (eg.,
@@ -36,3 +36,5 @@ FitzCIEMAS 14.10814
 FancyHall 12.6
 MessyHall 12.6
 ```
+When writing it in Assembly, a few of the rules change. Because the program is now prompting for input interactively, your program will output
+prompts before reading values. 
