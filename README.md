@@ -1,5 +1,7 @@
 # BuildingEfficiency
-Achieved 5th most time- and space- efficient algorithm! This is a C program called "BuildEff" (short for Building Efficiency) to identify the most energy efficient Duke building (per square foot) in the input file provided. Converted it into MIPS Assembly language too while mantaining efficiency.
+Achieved 5th most time- and space- efficient algorithm in the Computer Architecture Fall 2023 Course at Duke! 
+
+This is a C program called "BuildEff" (short for Building Efficiency) to identify the most energy efficient Duke building (per square foot) in the input file provided. Converted it into MIPS Assembly language too while mantaining efficiency.
 
 Assignment for BuildEff in C: [Click Here](https://people.ee.duke.edu/~jab/ece250/homeworks/homework1.pdf)
 Assignment for BuildEff in Assembly: [Click Here](https://people.ee.duke.edu/~jab/ece250/homeworks/homework2.pdf)
@@ -17,9 +19,11 @@ float later), and the third line is the annual amount of electricity used per ye
 HudsonAnnex
 30000
 522000.0
+
 FitzpatrickCIEMAS
 332178
 4686414.2
+
 DONE
 
 Your program should output a number of lines equal to the number of buildings and each line is the
